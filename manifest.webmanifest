@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "Dashboard Stok Kain Finishing",
+  "short_name": "Stok Kain",
+  "description": "Dashboard stok kain finishing (Exprint vs Reguler) — Behaestex",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1F5C3F",
+  "theme_color": "#1F5C3F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
